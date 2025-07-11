@@ -1,0 +1,6 @@
+s=[1,2,5,4,3]
+s1=sorted(s)
+print("sorted =",s1)
+
+output:
+sorted = [1, 2, 3, 4, 5]
