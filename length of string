@@ -1,0 +1,7 @@
+s=input("enter the string:")
+length=len(s)
+print("length of string =",length)
+
+output:
+enter the string:mani
+length of string = 4
