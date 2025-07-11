@@ -1,0 +1,9 @@
+def my_function(s):
+    length=len(s)
+    print("length of string =",length)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:oyt
+length of string = 3
