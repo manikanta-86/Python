@@ -1,0 +1,11 @@
+def my_function(s1,s2):
+    concatenate=s1+s2
+    print("concatenate of string =",concatenate)
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+my_function(s1,s2)
+
+output:
+enter the first string:pytho
+enter the second string:n
+concatenate of string = python
