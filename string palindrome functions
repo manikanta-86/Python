@@ -1,0 +1,12 @@
+def my_function(s):
+    s1=s[::-1]
+    if s==s1:
+        print("palindrome")
+    else:
+        print("not palindrome")
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:mam
+palindrome
