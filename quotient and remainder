@@ -1,0 +1,15 @@
+dividend=int(input("enter dividend value:"))
+divisor=int(input("enter divisor value:"))
+if divisor==0:
+    print("quotient and remainder not possible")
+else:
+    quo=dividend/divisor
+    rem=dividend%divisor
+    print("quotient =",quo)
+    print("remainder =",rem)
+
+output:
+enter dividend value:4
+enter divisor value:2
+quotient = 2.0
+remainder = 0
