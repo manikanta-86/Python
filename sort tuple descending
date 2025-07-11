@@ -1,0 +1,6 @@
+s=(1,2,5,4,3)
+s1=sorted(s,reverse=True)
+print("sorted =",tuple(s1))
+
+output:
+sorted = (5, 4, 3, 2, 1)
