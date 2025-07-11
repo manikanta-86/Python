@@ -1,0 +1,19 @@
+def my_function(a,b):
+    print("before swapping first number =",a)
+    print("before swapping second number =",b)
+    temp=a
+    a=b
+    b=temp
+    print("after swapping first number =",a)
+    print("after swapping second number =",b)
+a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
+my_function(a,b)
+
+output:
+enter the first number:2
+enter the second number:3
+before swapping first number = 2
+before swapping second number = 3
+after swapping first number = 3
+after swapping second number = 2
