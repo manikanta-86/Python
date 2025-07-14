@@ -1,0 +1,13 @@
+def my_function(n1,n2):
+    if n1==n2:
+        print("two numbers equal")
+    else:
+        print("two numbers not equal")
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
+
+output:
+enter the first number:123
+enter the second number:123
+two numbers equal
