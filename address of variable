@@ -1,0 +1,7 @@
+s=int(input("enter the number:"))
+s1=id(s)
+print("address =",s1)
+
+output:
+enter the number:123
+address = 140706115881208
