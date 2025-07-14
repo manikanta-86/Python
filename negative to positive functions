@@ -1,0 +1,12 @@
+def my_function(n):
+    if n>0:
+        print("positive number =",n)
+    else:
+        n1=abs(n)
+        print("positive number =",n1)
+n=int(input("enter the number:"))
+my_function(n)
+
+output:
+enter the number:-1
+positive number = 1
