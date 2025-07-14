@@ -1,0 +1,9 @@
+l=int(input("enter the length of rectangle:"))
+b=int(input("enter the breadth of rectangle:"))
+perimeter=2*(l+b)
+print("perimeter of rectangle =",perimeter)
+
+output:
+enter the length of rectangle:11
+enter the breadth of rectangle:13
+perimeter of rectangle = 48
