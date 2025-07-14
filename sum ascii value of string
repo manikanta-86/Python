@@ -1,0 +1,9 @@
+s=input("enter the string:")
+sum=0
+for i in s:
+    sum+=ord(i)
+print("Sum =",sum)
+
+output:
+enter the string:small 
+Sum = 537
