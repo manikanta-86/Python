@@ -1,0 +1,11 @@
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+if s1==s2:
+    print("two strings equal")
+else:
+    print("two strings not equal")
+
+ouptut:
+enter the first string:python
+enter the second string:python
+two strings equal
