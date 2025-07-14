@@ -1,0 +1,9 @@
+def my_function(s):
+    s1=ord(s)
+    print("ascii value =",s1)
+s=input("enter the character:")
+my_function(s)
+
+output:
+enter the character:a
+ascii value = 97
