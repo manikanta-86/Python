@@ -1,0 +1,10 @@
+n=int(input("enter the number:"))
+if n>0:
+    print("positive number =",n)
+else:
+    n1=abs(n)
+    print("positive number =",n1)
+
+output:
+enter the number:-1
+positive number = 1
