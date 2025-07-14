@@ -1,0 +1,7 @@
+s=input("enter the character:")
+s1=ord(s)
+print("ascii value =",s1)
+
+output:
+enter the character:a
+ascii value = 97
