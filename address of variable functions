@@ -1,0 +1,9 @@
+def my_function(s):
+    s1=id(s)
+    print("address of variable =",s1)
+s=int(input("enter the number:"))
+my_function(s)
+
+output:
+enter the number:123
+address = 140706115881208
