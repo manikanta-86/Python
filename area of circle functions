@@ -1,0 +1,10 @@
+def my_function(r):
+    pi=3.14
+    area=pi*r*r
+    print("area of circle =",area)
+r=float(input("enter the radius:"))
+my_function(r)
+
+output:
+enter the radius value:5
+area of circle = 78.5
