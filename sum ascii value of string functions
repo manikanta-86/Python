@@ -1,0 +1,11 @@
+def my_function(s):
+    sum=0
+    for i in s:
+        sum+=ord(i)
+    print("Sum =",sum)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:small 
+Sum = 537
