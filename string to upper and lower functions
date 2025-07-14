@@ -1,0 +1,10 @@
+s=input("enter the string:")
+s1=s.upper()
+s2=s.lower()
+print("Uppercase =",s1)
+print("Lowercase =",s2)
+
+output:
+enter the character:python
+Uppercase = PYTHON
+Lowercase = python
