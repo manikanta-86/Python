@@ -1,0 +1,7 @@
+s=int(input("enter the side of square:"))
+perimeter=4*s
+print("perimeter of square =",perimeter)
+
+output:
+enter the side of square:4
+perimeter of square = 16
