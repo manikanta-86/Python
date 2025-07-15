@@ -1,0 +1,9 @@
+def my_function(s):
+    length=len(s.strip().split()[-1])
+    print("length of last word =",length)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:python codes
+length of last word = 5
