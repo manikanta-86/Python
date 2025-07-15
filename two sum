@@ -1,0 +1,20 @@
+n=int(input("enter the size of array:"))
+n1=[]
+for i in range(0,n):
+    n2=int(input())
+    s=n1.append(n2)
+t=int(input("enter the target value:"))
+for j in range(0,n):
+    for k in range(j+1,n):
+        if n1[j]+n1[k]==t:
+            print([j,k])
+            break
+
+output:
+enter the size of array:4
+2
+7
+11
+13 
+enter the target value:9
+[0, 1]
