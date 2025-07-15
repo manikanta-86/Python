@@ -1,0 +1,9 @@
+def my_function(kelvin):
+    celsius=kelvin-273
+    print("celsius =",celsius)
+kelvin=float(input("enter the kelvin value:"))
+my_function(kelvin)
+
+output:
+enter the kelvin value:300
+celsius = 27.0
