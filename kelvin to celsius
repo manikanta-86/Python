@@ -1,0 +1,7 @@
+kelvin=float(input("enter the kelvin value:"))
+celsius=kelvin-273
+print("celsius =",celsius)
+
+output:
+enter the kelvin value:300
+celsius = 27.0
